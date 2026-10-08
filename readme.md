@@ -12,14 +12,14 @@
 
 ---
 
-## 🛡️ 2025 CompTIA CySA+ certificate:
+## 🛡️ 2025 CompTIA CySA+ prep course:
 
 * **CompTIA Certified Cybersecurity Analyst CySA+** — [👁️ View Certificate](https://drive.google.com/file/d/1FRLymIMXJDTDyIWDzLwZFxM1FIBd_e2x/preview)
 
 
 ---
 
-## 🏛️ 2021 Tableau certificate:
+## 🏛️ 2021 Tableau course:
 
 * **Tableau Desktop Fundamentals** — [👁️ View Certificate](https://drive.google.com/file/d/1Xg3fNL6p3Wy2ETSx7EBoI_5z7rt2C8Cu/preview)
 
@@ -36,7 +36,7 @@
 ---
 
 
-## 🔌 CompTIA Core/TechHire cohort certificates (4):
+## 🔌 CompTIA Core/TechHire cohort certification prep (4):
 
 * **CompTIA Security+ Certification Exam SY0-501 Prep** — [👁️ View Certificate](https://drive.google.com/file/d/1C_SmMglO_eV9SwDFue3-F-SxT6-CV0gc/preview)
 * **CompTIA Network+ Certification Exam N10-007 Prep** — [👁️ View Certificate](https://drive.google.com/file/d/17nxL8gLr-mbmg4ZT6BKOZ6MA_8JuVaSX/preview)
