@@ -1,5 +1,6 @@
 # 🎓 Wake Technical Community College
-* *course certificates of completion (2018-2021, 2025-2026)*
+* *course certificates of completion
+* 2018-2021, 2025-2026
 
 ---
 
