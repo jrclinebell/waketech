@@ -1,8 +1,8 @@
-# 🎓 Wake Technical Community College Certificates
+# 🎓 Wake Technical Community College certificates of completion
 
 ---
 
-## ⛰️ 2025-2026 SENTINEL Cybersecurity Bootcamp certificates (5):
+## ⛰️ 2025-2026 SENTINEL Cybersecurity Bootcamp (5):
 
 * **SENTINEL Cybersecurity Bootcamp Certificate of Completion** — [👁️ View Certificate](https://drive.google.com/file/d/1cXLSz6WsBB3U-NBMg9w3XQMbu8vEMzFo/preview)
 * **Cybersecurity, Advanced Networking, and IoT for SENTINEL Work-Based Learning (WBL)** — [👁️ View Certificate](https://drive.google.com/file/d/1PSremCDS0ZHsjws-u-DWRgOMT2IArgCz/preview)
