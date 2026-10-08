@@ -8,7 +8,7 @@ course certificates of completion (2018-2021, 2025-2026)
 * **SENTINEL Cybersecurity Bootcamp graduation July 23, 2026** — [👁️ View Diploma](https://drive.google.com/file/d/1cXLSz6WsBB3U-NBMg9w3XQMbu8vEMzFo/preview)
 * **Cybersecurity, Advanced Networking, and IoT for SENTINEL Work-Based Learning (WBL)** — [👁️ View Certificate](https://drive.google.com/file/d/1PSremCDS0ZHsjws-u-DWRgOMT2IArgCz/preview)
 * **CompTIA Security+ / TRACKS-CN Cyber4RAM / Capstone Project** — [👁️ View Certificate](https://drive.google.com/file/d/1QrkjAkV-lZXsB5w_xOAWFOeA3o53s2tG/preview)
-* **Cisco Certified Support Technician (CCST)/Certified Wireless IoT Solutions Administrator (CWISA)** — [👁️ View Certificate](https://drive.google.com/file/d/1XURmkLUze1KegBSI2tQf5WwISJSoYCGq/preview)
+* **Cisco Certified Support Technician (CCST) / Certified Wireless IoT Solutions Administrator (CWISA)** — [👁️ View Certificate](https://drive.google.com/file/d/1XURmkLUze1KegBSI2tQf5WwISJSoYCGq/preview)
 * **Emerging Technology Foundations and Career Exploration** — [👁️ View Certificate](https://drive.google.com/file/d/1TFhBWk4jIoY1U4na6pfQWzdzRBI3bxyI/preview)
 
 ---
