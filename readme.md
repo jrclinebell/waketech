@@ -1,4 +1,5 @@
-# 🎓 Wake Technical Community College - course certificates of completion
+# 🎓 Wake Technical Community College
+course certificates of completion
 
 ---
 
