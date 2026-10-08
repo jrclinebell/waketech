@@ -4,7 +4,7 @@
 
 ## ⛰️ 2025-2026 Sentinel Cybersecurity Bootcamp certificates (5):
 
-* **Wake Tech Sentinel Cybersecurity Bootcamp** — [👁️ View Certificate](https://drive.google.com/file/d/1cXLSz6WsBB3U-NBMg9w3XQMbu8vEMzFo/preview)
+* **Sentinel Cybersecurity Bootcamp Certificate of Completion** — [👁️ View Certificate](https://drive.google.com/file/d/1cXLSz6WsBB3U-NBMg9w3XQMbu8vEMzFo/preview)
 * **Cybersecurity, Advanced Networking, and IoT for SENTINELT Work-Lased Learning (WBL)** — [👁️ View Certificate](https://drive.google.com/file/d/1PSremCDS0ZHsjws-u-DWRgOMT2IArgCz/preview)
 * **CompTIA Security+ / TRACKS-CN Cyber4RAM / Capstone Project** — [👁️ View Certificate](https://drive.google.com/file/d/1QrkjAkV-lZXsB5w_xOAWFOeA3o53s2tG/preview)
 * **Cisco Certified Support Technician (CCST)/Certified Wireless IoT Solutions Administrator (CWISA)** — [👁️ View Certificate](https://drive.google.com/file/d/1XURmkLUze1KegBSI2tQf5WwISJSoYCGq/preview)
