@@ -13,7 +13,7 @@ course certificates of completion (2018-2021, 2025-2026)
 
 ---
 
-## 🛡️ 2025 CompTIA CySA+ prep:
+## 🛡️ 2025 CompTIA CySA+ cert prep:
 
 * **CompTIA Certified Cybersecurity Analyst CySA+** — [👁️ View Certificate](https://drive.google.com/file/d/1FRLymIMXJDTDyIWDzLwZFxM1FIBd_e2x/preview)
 
