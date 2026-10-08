@@ -37,7 +37,7 @@ course certificates of completion
 ---
 
 
-## 🔌 TechHire cohort/CompTIA Core cert prep (4):
+## 🔌 2018-2019 TechHire cohort/CompTIA Core cert prep (4):
 
 * **CompTIA Security+ Certification Exam SY0-501 Prep** — [👁️ View Certificate](https://drive.google.com/file/d/1C_SmMglO_eV9SwDFue3-F-SxT6-CV0gc/preview)
 * **CompTIA Network+ Certification Exam N10-007 Prep** — [👁️ View Certificate](https://drive.google.com/file/d/17nxL8gLr-mbmg4ZT6BKOZ6MA_8JuVaSX/preview)
