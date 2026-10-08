@@ -1,4 +1,4 @@
-# 🎓 Wake Tech Certificates
+# 🎓 Wake Technical Community College Certificates
 
 ---
 
